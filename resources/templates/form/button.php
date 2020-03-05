@@ -1,0 +1,1 @@
+<a href="<?php echo $href; ?>" class="<?php echo $class ?? 'btn btn-secondary'; ?>"><?php echo $this->html($label); ?></a> 
